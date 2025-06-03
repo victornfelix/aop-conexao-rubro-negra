@@ -23,10 +23,11 @@ O projeto foi realizado individualmente, atendendo aos requisitos da atividade, 
 ## Como Executar
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/username/conexão-rubro-negra.git
+   git clone https://github.com/victornfelix/aop-conexao-rubro-negra.git
    ```
 2. Abra o arquivo `index.html` em um navegador web para acessar a página inicial.
 3. Navegue pelas seções usando o menu de navegação presente em todas as páginas.
+4. Alternativamente, acesse a versão publicada: [https://victornfelix.github.io/aop-conexao-rubro-negra/](https://victornfelix.github.io/aop-conexao-rubro-negra/)
 
 ## Autor
 - Victor Nogueira Felix
